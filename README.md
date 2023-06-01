@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VS1905
 - 👀 I’m interested in ... DATA SCIENCE 
 - 🌱 I’m currently learning ... PYTHON & Data Science
-- 📫 How to reach me ... Linked In: https://www.linkedin.com/in/varun-singh-761bb3251/
+- 📫 How to reach me ... Linked In: https://www.linkedin.com/in/mrvarunsingh/
 - ⚙️ Kaggle profile: https://www.kaggle.com/varunsingh1905
