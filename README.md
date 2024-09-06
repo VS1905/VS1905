@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @VS1905
-- 👀 I’m interested in ... DATA SCIENCE 
-- 🌱 I’m currently learning ... PYTHON & Data Science
+- 👋 Hi, I’m @VS1905.
+- 🏢 I'm currently providing ... AI/ML solutions.
+- 👀 I’m interested in ... DATA SCIENCE. 
+- 🌱 I’m currently learning ... Data Science, React & React-Native.
 - ⚙️ Kaggle profile: https://www.kaggle.com/varunsingh1905
+- 🔗 LinkedIn profile: https://www.linkedin.com/in/mr-varun-singh/
